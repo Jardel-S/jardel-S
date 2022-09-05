@@ -1,9 +1,9 @@
 <a href="#"><img width="100%" height="300" src="img/feeling_proud.svg"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jardel</h1>
-<h3 align="center">I am currently attending the 3rd year of a degree in
+<h3 align="center">I am currently attending the 4rd year of a degree in
 Systems Engineering and Computer Science at the Jean Piaget University of Cape
-Verde.</h3>
+Verde, but I also studied at the Universidad Autónoma de Madrid </h3>
 <br/>
 
 ## 🙋‍♂️ About Me
