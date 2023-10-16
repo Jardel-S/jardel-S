@@ -9,7 +9,6 @@ the Autonomous University of Madrid. </h3>
 
 🙋‍♂️ About Me
 
-<b>
 - 🔭 I’m currently working at **PMR Software**. 
 
 - 🌱 I’m currently learning __C# <img src="https://img.icons8.com/color/24/000000/c-sharp-logo.png"/>.__
@@ -17,7 +16,6 @@ the Autonomous University of Madrid. </h3>
 - 👯 I’m looking to **improve my programing knowledge.**
 
 - 📫 How to reach me **jardelmoreno29@gmail.com**
-</b>
 
 <br/>
 
