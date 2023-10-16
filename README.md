@@ -1,16 +1,17 @@
 <a href="#"><img width="100%" height="300" src="img/feeling_proud.svg"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jardel</h1>
-<h3 align="center">I am currently attending the 4rd year of a degree in
-Systems Engineering and Computer Science at the Jean Piaget University of Cape
-Verde, but I also studied at the Universidad Autónoma de Madrid </h3>
+<h3 align="center">I'm Jardel Moreno, I currently work at PMR Software in Portugal and 
+in the 4th year of my degree in Systems Engineering and Computer 
+Science at the Jean Piaget University in Cape Verde, but I also studied at 
+the Autonomous University of Madrid. </h3>
 <br/>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Mobile SIIUP**, which is a software that will integrate all of my university's services. 
+- 🔭 I’m currently working at **PMR Software**. 
 
-- 🌱 I’m currently learning __ionic framework <img src="https://img.icons8.com/ios-filled/15/4a90e2/ionic.png"/>.__
+- 🌱 I’m currently learning __C# <img src="https://icons8.com/icon/55251/c-sharp-logo"/>.__
 
 - 👯 I’m looking to **improve my programing knowledge.**
 
