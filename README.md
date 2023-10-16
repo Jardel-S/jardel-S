@@ -9,13 +9,15 @@ the Autonomous University of Madrid. </h3>
 
 ## 🙋‍♂️ About Me
 
+<b>
 - 🔭 I’m currently working at **PMR Software**. 
 
-- 🌱 I’m currently learning __C# <img src="https://icons8.com/icon/55251/c-sharp-logo"/>.__
+- 🌱 I’m currently learning __C# <img src="https://img.icons8.com/color/24/000000/c-sharp-logo.png"/>.__
 
 - 👯 I’m looking to **improve my programing knowledge.**
 
 - 📫 How to reach me **jardelmoreno29@gmail.com**
+</b>
 
 <br/>
 
@@ -44,15 +46,11 @@ the Autonomous University of Madrid. </h3>
 
   <br/>
     <a href="https://github.com/Jardel-S/github-readme-stats"><img alt="Jardel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jardel-S&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Jardel-S/github-readme-stats"><img alt="Jardel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jardel-S&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Jardel-S/github-readme-stats"><img alt="Jardel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jardel-S&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
+  
 <br/>
 <br/>
-
-<a href="https://github.com/Jardel-S/github-readme-activity-graph"><img alt="Jardel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jardel-S&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
