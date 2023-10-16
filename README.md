@@ -7,7 +7,7 @@ Science at the Jean Piaget University in Cape Verde, but I also studied at
 the Autonomous University of Madrid. </h3>
 <br/>
 
-## 🙋‍♂️ About Me
+🙋‍♂️ About Me
 
 <b>
 - 🔭 I’m currently working at **PMR Software**. 
