@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="300" src="img/feeling_proud.svg"/></a>
+<a href="#"><img width="100%" height="300" src="img/programming.svg"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jardel</h1>
 <h3 align="center">I'm Jardel Moreno, I currently work at PMR Software in Portugal and 
