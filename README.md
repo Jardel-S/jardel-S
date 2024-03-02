@@ -11,7 +11,7 @@ the Autonomous University of Madrid. </h3>
 
 - 🔭 I’m currently working at **PMR Software**. 
 
-- 🌱 I’m currently learning __C# <img src="https://img.icons8.com/color/24/000000/c-sharp-logo.png"/>.__
+- 🌱 I’m currently learning **.NET** and **Spring Boot** .
 
 - 👯 I’m looking to **improve my programing knowledge.**
 
